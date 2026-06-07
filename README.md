@@ -24,15 +24,21 @@ This repository contains my implementation of the “filters-less” problem set
      ```
 
   4. Run the Filters:
+     # For grayscale
      ```
       ./filter -g input.bmp output.bmp
-     # For grayscale
+     ```
+      # For sepia
+     ```
      ./filter -s input.bmp output.bmp
-     # For sepia
+     ```
+    # For reflect
+     ```
      ./filter -r input.bmp output.bmp
-     # For reflect
+     ```
+      # For blur
+     ```
      ./filter -b input.bmp output.bmp
-     # For blur
      ```
   ## Documentation
   - **filter.c**: Contains the main logic for applying the filters.
