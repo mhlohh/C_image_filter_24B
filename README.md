@@ -28,11 +28,11 @@ This repository contains my implementation of the “filters-less” problem set
      ```
       ./filter -g input.bmp output.bmp
      ```
-      # For sepia
+     # For sepia
      ```
      ./filter -s input.bmp output.bmp
      ```
-    # For reflect
+      # For reflect
      ```
      ./filter -r input.bmp output.bmp
      ```
