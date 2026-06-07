@@ -15,7 +15,7 @@ This repository contains my implementation of the “filters-less” problem set
      git clone https://github.com/yourusername/24b-bmp-filter-using-c.git
      ```
      ```
-     cd 24b-bmp-filter-using-c
+     cd C_image_filter_24B
      ```
 
   2. Compile the Code:
