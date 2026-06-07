@@ -43,5 +43,10 @@ This repository contains my implementation of the “filters-less” problem set
   ## Documentation
   - **filter.c**: Contains the main logic for applying the filters.
   - **helpers.c**: Includes helper functions used by `filter.c`.
+
+  ## License
+  This project is licensed under the MIT License - see the LICENSE file for details.
+
+  Feel free to customize it further to match your project’s specifics! If you need any more help, just let me know.
   - **bmp.h**: Header file defining the BMP file format.
   - **helpers.h**: Header file for helper functions.
